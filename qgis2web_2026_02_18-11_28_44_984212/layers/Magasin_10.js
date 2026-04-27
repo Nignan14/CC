@@ -1,0 +1,1 @@
+var json_Magasin_10 = {"type":"FeatureCollection","name":"Magasin_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Field1":"DABOUYO"},"geometry":{"type":"Point","coordinates":[-6.04342,5.553957]}}]}
